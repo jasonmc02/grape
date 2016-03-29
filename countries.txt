@@ -1,0 +1,19 @@
+# post country v1
+{
+  "name": "",
+  "description": ""
+}
+
+
+#post country v2
+{
+  "name": "",
+  "description": "",
+  "allowed": true
+}
+
+
+# post cookie
+{
+    "text":"new cookie :D"
+}
